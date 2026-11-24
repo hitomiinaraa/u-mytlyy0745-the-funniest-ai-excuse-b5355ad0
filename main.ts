@@ -1,3 +1,4 @@
+// The upgrade ghosted us both — one line, no excuses left.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
